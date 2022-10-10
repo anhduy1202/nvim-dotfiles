@@ -31,6 +31,7 @@ List of keybindings I use for nvim
 |  tmux rename-session -t {session name} {new name}  | Rename a session |
 |  tmux attach - t {session name}  | Restore session |
 |  tmux kill-session -t {session name}  | Kill a session |
+|  tmux kill-session -a | Kill all sessions except the one using |
 
 # TreeNerd - Folder Tree
 | Keybinds  | Description |
