@@ -5,7 +5,9 @@ List of keybindings I use for nvim
 | Keybinds  | Description |
 | ------------- | ------------- |
 |  dd  | Delete line  |
+|  x  | Delete word  |
 | d   | Cut |
+| c  | Copy  |
 | y / Y | Paste |
 | / | Search for word |
 | n / N | Navigate searched word |
@@ -45,3 +47,8 @@ List of keybindings I use for nvim
 | ------------- | ------------- |
 |  <Option + .>  | Next Tab  |
 | <Option + ,t>   | Prev Tab |
+
+# Telescope - Find Files
+| Keybinds  | Description |
+| ------------- | ------------- |
+| ff | Open |
