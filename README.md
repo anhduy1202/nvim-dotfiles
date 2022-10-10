@@ -17,9 +17,20 @@ List of keybindings I use for nvim
 # tmux - Terminal
 | Keybinds  | Description |
 | ------------- | ------------- |
-|  <Ctrl + b> + %  | Split Pane  |
+|  tmux  | Actiavte tmux ( create new session ) |
+|  tmux new -s {name} | Create new session with name |
+|  <Ctrl + b> + %  | Split Pane to Right |
+|  <Ctrl + b> + "  | Split Pane to Bottom |
 | <Ctrl + b> + left arrow  | Go to Left Pane  |
 | <Ctrl + b> + right arrow | Go to Right Pane |
+|  <Ctrl + b> + c  | New Window |
+|  <Ctrl + b> + 0  | Switch to Window 0 |
+|  <Ctrl + b> + ,  | Rename Window 
+|  <Ctrl + b> + d  | Detach Session |
+|  tmux ls  | View past sessions |
+|  tmux rename-session -t {session name} {new name}  | Rename a session |
+|  tmux attach - t {session name}  | Restore session |
+|  tmux kill-session -t {session name}  | Kill a session |
 
 # TreeNerd - Folder Tree
 | Keybinds  | Description |
