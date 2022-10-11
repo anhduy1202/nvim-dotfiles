@@ -1,0 +1,23 @@
+{
+  "coc.preferences.formatOnSaveFiletypes": [
+    "css",
+    "html",
+    "javascript",
+    "javascriptreact",
+    "json",
+    "jsonc",
+    "python",
+    "typescript",
+    "typescriptreact"
+  ],
+  "coc.preferences.formatOnType": true,
+  "powershell.integratedConsole.showOnStartup": false,
+  "prettier.arrowParens": "avoid",
+  "prettier.printWidth": 100,
+  "prettier.tabWidth": 4,
+  "prettier.singleQuote": true,
+  "prettier.trailingComma": "all",
+  "python.formatting.provider": "yapf",
+  "python.jediEnabled": false,
+  "svelte.enable-ts-plugin": true
+}
