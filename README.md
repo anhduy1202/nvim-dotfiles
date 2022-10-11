@@ -1,5 +1,7 @@
-# nvim-keybinds
-List of keybindings I use for nvim
+# nvim-dotfiles
+
+# Keybinds
+> List of keybindings I use for nvim
 
 # Vim 
 | Keybinds  | Description |
