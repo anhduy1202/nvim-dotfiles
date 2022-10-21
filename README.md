@@ -25,6 +25,8 @@
 |  tmux new -s {name} | Create new session with name |
 |  <Ctrl + b> + %  | Split Pane to Right |
 |  <Ctrl + b> + "  | Split Pane to Bottom |
+|  <Ctrl + b> + :  | Open Command Pane |
+|  :resize-window -{direction} unit  | Resize tmux window |
 | <Ctrl + b> + left arrow  | Go to Left Pane  |
 | <Ctrl + b> + right arrow | Go to Right Pane |
 |  <Ctrl + b> + c  | New Window |
