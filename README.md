@@ -1,4 +1,5 @@
 # nvim-dotfiles
+> /Users/danieltruong/.config/nvim
 
 # Keybinds
 > List of keybindings I use for nvim
